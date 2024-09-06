@@ -1,6 +1,6 @@
 # 💎 Requirements Analysis
 
-Focus on the tasks that determine the needs the requirements for new projects or products, using the opinion of various [stakeholders](#stakeholder).
+Focus on the tasks that determine the needs the requirements for new projects or products, using the opinion of various [stakeholders](#stakeholders).
 
 Principals of good requirements:
 
