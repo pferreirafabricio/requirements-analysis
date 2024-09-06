@@ -1,6 +1,6 @@
 # 💎 Requirements Analysis
 
-> [!INFO]
+> [!NOTE]
 > This content is available in other languages, click on the badges below to be redirect
 >
 > [![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg?style=for-the-badge&labelColor=009c37&color=FEE000)](./README.pt-BR.md)
