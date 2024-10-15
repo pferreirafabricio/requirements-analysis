@@ -58,7 +58,15 @@ It's the definition of what is required to meet the business needs within the so
 #### Specifications
 
 - Which questions to ask yourself when doing requirements analysis?
-- TODO:
+- User
+  - What are your responsibilities?
+  - What are the products of your work?
+  - For whom do you generate these products?
+- Problem
+  - For which problems are there no good solutions?
+  - What are they?
+  - Why does this problem exist?
+  - How could you solve it?
 
 #### Business requirements
 
@@ -68,13 +76,13 @@ High-level definitions, without much details or reference, about business-level 
 
 The expectations of the customer about the system. These requirements answer the following questions:
 
-> - Operational distribution or deployment: Where will the system be used?
-> - Mission profile or scenario: How will the system accomplish its mission objective?
-> - Performance and related parameters: What are the critical system parameters to accomplish the mission?
-> - Utilization environments: How are the various system components to be used?
-> - Effectiveness requirements: How effective or efficient must the system be in performing its mission?
-> - Operational life cycle: How long will the system be in use by the user?
-> - Environment: What environments will the system be expected to operate effectively?
+- Operational distribution or deployment: Where will the system be used?
+- Mission profile or scenario: How will the system accomplish its mission objective?
+- Performance and related parameters: What are the critical system parameters to accomplish the mission?
+- Utilization environments: How are the various system components to be used?
+- Effectiveness requirements: How effective or efficient must the system be in performing its mission?
+- Operational life cycle: How long will the system be in use by the user?
+- Environment: What environments will the system be expected to operate effectively?
 
 #### Architectural requirements
 
@@ -103,3 +111,4 @@ Business Process Model and Notation (BPMN) is a graphical representation for spe
 - [Requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
 - [Systems architecture](https://en.wikipedia.org/wiki/Systems_architecture)
 - [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+- [REtraining - Guia facetado de Técnicas de Elicitação de Requisitos](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-entrevista)
