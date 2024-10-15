@@ -95,7 +95,12 @@ A business rule defines or constrains some aspect of a business, it describes th
 
 ### BPMN
 
+Business Process Model and Notation (BPMN) is a graphical representation for specifying business processes in a business process model. It is a standard for business process modeling that provides a graphical visuaization of the specific business process in a Business Process Diagram (BPD).
+
+## Which questions to ask?
+
 ## References
 
 - [Requirements analysis](https://en.wikipedia.org/wiki/Requirements_analysis)
 - [Systems architecture](https://en.wikipedia.org/wiki/Systems_architecture)
+- [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
