@@ -1,11 +1,11 @@
 # 💎 Requirements Analysis
 
 > [!NOTE]
-> This content is available in other languages, click on the badges below to be redirect
+> This content is available in other languages, click on the badges below to be redirected
 >
 > [![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg?style=for-the-badge&labelColor=009c37&color=FEE000)](./README.pt-BR.md)
 
-Focus on the tasks that determine the needs the requirements for new projects or products, using the opinion of various [stakeholders](#stakeholders).
+Focus on the tasks that determine the needs and requirements for new projects or products, using the opinion of various [stakeholders](#stakeholders).
 
 Principals of good requirements:
 
@@ -23,9 +23,9 @@ The analysis usually includes three types of activities:
 
 **Recording requirements:** Documenting in various forms (natural-language documents, use cases, user stories).
 
-**Analyzing requirements:** Analyze that the requirements are clear, complete, unduplicated, concise, valid, consistent, etc.
+**Analyzing requirements:** Analyze the requirements as clear, complete, unduplicated, concise, valid, consistent, etc.
 
-It's important to identify all the stakeholders, take into account all their needs, and make sure that they understand the changes in a new system.
+It's important to identify all the stakeholders, consider all their needs, and ensure they understand the changes in a new system.
 
 To elicit the requirements there are some tools: the development of scenarios (user stories), the identification of use cases, interviews, workshops, and others.
 
@@ -33,7 +33,7 @@ To elicit the requirements there are some tools: the development of scenarios (u
 
 ### Stakeholders
 
-A people or organization that have a valid interest in the system, but not limited to the organization that employs the analyst. Other stakeholders could be:
+A people or organization that has a valid interest in the system, but not limited to the organization that employs the analyst. Other stakeholders could be:
 
 - anyone who operates the system (normal and maintenance operators)
 - anyone who benefits from the system (functional, political, financial, and social beneficiaries)
@@ -53,13 +53,12 @@ A structure for documenting the functional requirements and the behavior of a sy
 
 ### Requirements
 
-It is the specification of what is required to meet the business needs within the solution scope. The main goal is to move the understanding of the system from a current as-is state to a future-to-be state.
+It's the definition of what is required to meet the business needs within the solution scope. The main goal is to move the understanding of the system from a current as-is state to a future-to-be state.
 
 #### Specifications
 
-- Técnicas de elicitação
-
 - Which questions to ask yourself when doing requirements analysis?
+- TODO:
 
 #### Business requirements
 
@@ -91,11 +90,11 @@ Complementary requirements that can be used to judge the operation of a system, 
 
 ### Business Rules
 
-A business rule defines or constrains some aspect of a business, it describes the operations, definitions, and constraints that can apply to people, processes, corporate behavior and computing systems in an organization.
+A business rule defines or constrains some aspect of a business, it describes the operations, definitions, and constraints that can apply to people, processes, corporate behavior, and computing systems in an organization.
 
 ### BPMN
 
-Business Process Model and Notation (BPMN) is a graphical representation for specifying business processes in a business process model. It is a standard for business process modeling that provides a graphical visuaization of the specific business process in a Business Process Diagram (BPD).
+Business Process Model and Notation (BPMN) is a graphical representation for specifying business processes in a business process model. It is a standard for business process modeling that provides a graphical visualization of the specific business process in a Business Process Diagram (BPD).
 
 ## Which questions to ask?
 
